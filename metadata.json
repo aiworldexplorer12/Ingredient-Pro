@@ -1,0 +1,5 @@
+{
+  "name": "Recipe Ingredient Pro",
+  "description": "A professional culinary tool that instantly provides detailed ingredient lists, measurements, and chef tips for any recipe you enter using Gemini AI.",
+  "requestFramePermissions": []
+}
